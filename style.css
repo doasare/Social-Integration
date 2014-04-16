@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+
+}
+body {
+	width: 100%;
+	margin-top: 0;
+    margin-left: 0;
+		
+}
+a.button {
+background: url(instagram/instagram-login-button.png) no-repeat transparent;
+cursor: pointer;
+display: block;
+height: 29px;
+
+overflow: hidden;
+text-indent: -9999px;
+width: 200px;
+}
+#resize{
+    width:300px; /* you can use % */
+    height: auto;
+}
+
+a.button:hover {
+background-position: 0 -29px;
+}
+
+#main {
+width: 1000px;
+margin: 20px auto;
+border: 1px solid;
+height : 500px auto;
+}
+.connectbox{
+width: 33.3%;
+border: 1px;
+float:left;
+}
+#connections{
+padding-left: 30px;
+
+}
+#navigation{
+
+height: 30px;
+border-bottom: 1px solid;
+
+}
+ul#nav{
+	list-style:none;
+	padding:0;
+	margin: 0 0 10px 0;	
+	
+}
+ul#nav li{
+	display:inline;
+	margin-right:10px;
+
+
+}
+#bodylayout{
+border-top: 1px solid;
+padding-top: 10px;
+}
+.photo{
+    float: left;
+    position: relative;
+    width: 150px;
+    padding: 10px 10px 10px 20px;
+}
+#message{
+    width:60%;
+    padding-left: 20%;
+    padding-right: 20%;
+
+
+}
+.photo_likes{
+    float: right;
+    position: relative;
+    width: 300px;
+    padding: 10px 10px 10px 20px;

@@ -1,0 +1,10 @@
+// JavaScript Document
+$(document).ready(function() {
+    $('#loginbox').load('content/log.php');
+	
+	$("ul#na a").click(function(){
+		$('#lower').load('content/reg.php');
+		return false;
+	});
+	
+});
