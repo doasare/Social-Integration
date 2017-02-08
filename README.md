@@ -1,15 +1,15 @@
-SINGLE PAGE, SOCIAL INTEGRATION
+Single Page, Social Network Integration
 ===================
 
 ##PROJECT
-A STUDY INTO SOCIAL MEDIA INTEGRATION ON A SINGLE PLATFORM
-INTERACTION AND MANIPULATE COMBINED DATA IN A SINGLE VIEW:
+A Study into a social network integration to achieve a single page view
+To present, interact, and manipulate the collection of resource on a single platform. 
 - MEDIA
 - POSTS
 
 
 
 
-## BlueJ IDE
+## PHP
 
 
