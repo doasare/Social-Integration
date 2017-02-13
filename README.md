@@ -2,14 +2,11 @@ Single Page, Social Network Integration
 ===================
 
 ##PROJECT
-A Study into a social network integration to achieve a single page view
-To present, interact, and manipulate the collection of resource on a single platform. 
-- MEDIA
-- POSTS
+A Study into a social network integration to achieve a single page view.
+To present, interact, and manipulate the combination of social network services on a single platform.
 
+This test includes ** instagram, Facebook and Twitter
 
-
-
-## PHP
+Written in PHP
 
 
